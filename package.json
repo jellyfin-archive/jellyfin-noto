@@ -1,6 +1,6 @@
 {
   "name": "jellyfin-noto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Self-hosted versions of Noto Sans, properly subsetted and including all the characters of non-latin languages",
   "main": "font-faces.css",
   "repository": "https://github.com/jellyfin/jellyfin-noto",
