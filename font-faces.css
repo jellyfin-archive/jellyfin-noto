@@ -198,23 +198,19 @@
 
 @import url(css/HK.css);
 
-/* ========================= NOTO SANS JP TYPEFACES ======================= */
+/* ========================= NOTO SANS JP TYPEFACES ================ */
 
 @import url(css/JP.css);
 
-/* ========================= NOTO SANS KR TYPEFACES ================= */
+/* ========================= NOTO SANS KR TYPEFACES ================ */
 
 @import url(css/KR.css);
 
-/* ======================= NOTO SANS SC TYPEFACES ================= */
+/* ======================= NOTO SANS SC TYPEFACES ================== */
 
 @import url(css/SC.css);
 
-/* ======================= NOTO SANS TC TYPEFACES ================= */
-
-@import url(css/TC.css);
-
-/* ============================= ARABIC TYPEFACES ============================================= */
+/* ============================= ARABIC TYPEFACES ========================================================================== */
 
 @font-face {
     font-family: 'Noto Sans';
